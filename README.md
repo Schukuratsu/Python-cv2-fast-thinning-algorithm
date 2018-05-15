@@ -16,5 +16,7 @@ Rules of the result image:
 2. interest areas should be 1 pixel wide.
 3. Small branches are undesired.
 
+Download everything and run example.py to try out yourself! (python 2.x and cv2 needed)
+
 Feel free to contact me with questions or sugestions.
 Happy coding! :)
