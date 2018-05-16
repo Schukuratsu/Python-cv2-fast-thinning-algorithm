@@ -22,4 +22,5 @@ Rules of the result image:
 Download everything and run example.py to try out yourself! (python 2.x and cv2 needed)
 
 Feel free to contact me with questions or sugestions. (lucassilvaennes@gmail.com)
+
 Happy coding! :)
